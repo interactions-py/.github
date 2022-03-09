@@ -9,6 +9,8 @@ newly released set of tools to bot developers on the platform since 2020 Decembe
 here are officially endorsed and affiliated to the branding of interactions.py; and its representatives. Things can look a little
 confusing around here, so let's take the time together to explain what we have to offer and what's shown.
 
+(Looking for our [library](https://github.com/interactions-py/library)?)
+
 ## The core
 
 The "core" are what we consider as repositories crucial to delivering interactions.py's service. So far, the only repository we 
