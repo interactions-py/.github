@@ -4,35 +4,48 @@ The official organization of interactions.py, the leading Discord Python library
 
 ----
 
-Hello there. We're interactions.py: an open-sourced software (OSS) project that specialize in making Discord interactions, a
-newly released set of tools to bot developers on the platform since 2020 December easy-to-use. All repositories that are found
-here are officially endorsed and affiliated to the branding of interactions.py; and its representatives. Things can look a little
-confusing around here, so let's take the time together to explain what we have to offer and what's shown.
+Hi there! If you've stumbled across this page, then welcome: we're interactions.py. This is a library that specialises
+in making Discord's interactions easy, simple, scalable and modular in bots. On the chance you're looking for a specific
+repository, you might've been confused upon first glance at all there is. This front page serves to help newcomers where
+and what things are listed under this organisation.
 
-(Looking for our [library](https://github.com/interactions-py/library)?)
+## Core
 
-## The core
+"Core" is a term that we use to describe the `library` repository: what makes interactions.py possible. If you're looking
+to directly contribute new features and/or mention issues with our library, you're able to
+[easily do so here.](https://github.com/interactions-py/library)
 
-The "core" are what we consider as repositories crucial to delivering interactions.py's service. So far, the only repository we 
-have under the core is `library` which is... you guessed it, our library. The team responsible for maintaining and developing
-the core are known as our "core team." Whatever the term is, we'll essentially suffix it with being a team.
+We have a team that focus purely on developing the library, known as the "core development team." You're able to find our
+core developers in our [Discord support server.](https://discord.gg/interactions)
 
-## 3rd parties
+## Ext
 
-Our 3rd parties respectively fall under a separate term which we call "ext," a shortened way of saying external. These are the
-libraries which extend off of our core library's `ext` framework, a software development kit (SDK) for bot developers to use allowing
-an easy and simple DX with creating 3rd party libraries akin. Our ext team is always growing with developers coming to help create
-a better experience for bot developers using our library.
+"Ext" is another term that we use to describe extensions. Extensions are a paradigm that the library offers with helping
+allow more modular and scalable code either through the use of an object-orientation; and/or imports. Our ext development
+team are responsible for helping maintain these 3rd parties officially endorsed by interactions.py's branding.
 
-### The ext philosophy
+Extensions are typically made by the community and endorsed upon recognition of their status by use from the community
+and other internal standards which are not disclosed unless interest has been expressed by the core development team.
 
-We are committed to ensuring a better and prosperous future for the Discord library OSS ecosystem here at interactions.py. Our philosophy
-is fairly simple and clear: anyone can become an external developer. We openly welcome and encourage for people to develop 3rd parties
-for our service, as we're all about developer collaboration. There's no reason in our mind to justify the need for discouraging or not 
-putting value to the face of collaborating with one another. 
+### Philosophy
 
-## Social media
+The philosophy of extensions is quite simple: if you can create an extension, you have a fair chance at getting it added.
+Whether you're creating extensions with the intent of having it endorsed by interactions.py, or simply to help with you 
+and others' bots, we openly welcome and accept bringing these on board through our emphasised interest on open-sourced collaboration.
 
-interactions.py take the extra step in spreading their name. We recognize the importance of bot developers wanting to learn about interactions,
-as well as their usefulness in the bot development community. interactions.py actively continue to spread public awareness about our library,
-3rd parties and involvements with pursuing our vision.
+## Marketing
+
+interactions.py places great emphasis in getting its name out there to the Discord bot development community, which is handled
+by our marketing team. The marketing team is mostly responsible for communal relations, but additionally collaborate with partners
+and act as the spokesperson of the brand.
+
+Our marketing team cover a spectrum of social media outlets:
+
+- [Discord support server](https://discord.gg/interactions)
+- [YouTube](https://www.youtube.com/channel/UCVW2f2t75btBtL3Xjb1ciXw)
+- [Website](https://interactions.fl0w.dev)
+- [Twitter](https://twitter.com/interactionspy)
+
+## Footer note
+
+If you have any questions or feedback related to the project, please reach out to us in our support server!
