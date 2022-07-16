@@ -43,7 +43,7 @@ Our marketing team cover a spectrum of social media outlets:
 
 - [Discord support server](https://discord.gg/interactions)
 - [YouTube](https://www.youtube.com/channel/UCVW2f2t75btBtL3Xjb1ciXw)
-- [Website](https://interactions.fl0w.dev)
+- [Website](https://interactions.i0.gg)
 - [Twitter](https://twitter.com/interactionspy)
 
 ## Footer note
