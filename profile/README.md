@@ -1,7 +1,5 @@
 # interactions.py
 
-🐍 A Python library for Discord.
-
 ![interactions.py Banner](profile/ipy_banner.png)
 
 ---
