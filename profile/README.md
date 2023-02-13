@@ -12,3 +12,5 @@ As such, some things may look a little wonky right now as we begin to iron out t
 ## Important links
 
 - ⭐ [Main repo](https://github.com/interactions-py/library)
+- [Astro](https://github.com/interactions-py/astro) (In-house bot)
+- [Support server](https://discord.gg/interactions)
