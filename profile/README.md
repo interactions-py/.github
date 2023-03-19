@@ -1,16 +1,18 @@
-# interactions.py
+<div align="center">
+  <a href="https://github.com/interactions-py/interactions.py">
+    <img height="200" src="https://user-images.githubusercontent.com/41456914/226150903-e51711d4-22c4-4ce0-ab2a-d163d315bda0.png" />
+  </a>
+</div>
 
-![interactions.py Banner](profile/ipy_banner.png)
+## Who We Are
 
----
+We develop **interactions.py** – a highly extensible, easy to use, and feature complete bot framework for Discord.
 
-## What's happening?
+interactions.py is also maintained by developers, just like you! You can find [open issues here](https://github.com/interactions-py/interactions.py/issues). 
 
-We are currently in the process of migrating the [NAFF](https://github.com/NAFTeam/NAFF) code base to interactions.py.
-As such, some things may look a little wonky right now as we begin to iron out the details. Don't fret! We're here to stay.
-
-## Important links
-
-- ⭐ [Main repo](https://github.com/interactions-py/library)
-- [Astro](https://github.com/interactions-py/astro) (In-house bot)
+- [Source code](https://github.com/interactions-py/interactions.py)
+- [Documentation](https://interactionspy.readthedocs.io/en/latest/) \*
+- [Guides](https://interactionspy.readthedocs.io/en/latest/quickstart.html) \*
 - [Support server](https://discord.gg/interactions)
+
+\* *These are subject to change at any time.*
