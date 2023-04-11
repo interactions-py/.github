@@ -11,8 +11,7 @@ We develop **interactions.py** – a highly extensible, easy to use, and feature
 interactions.py is also maintained by developers, just like you! You can find [open issues here](https://github.com/interactions-py/interactions.py/issues). 
 
 - [Source code](https://github.com/interactions-py/interactions.py)
-- [Documentation](https://interactionspy.readthedocs.io/en/latest/) \*
-- [Guides](https://interactionspy.readthedocs.io/en/latest/quickstart.html) \*
+- [Documentation](https://interactions-py.github.io/interactions.py/)
+- [Guides](https://interactions-py.github.io/interactions.py/Guides/)
 - [Support server](https://discord.gg/interactions)
 
-\* *These are subject to change at any time.*
