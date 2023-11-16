@@ -1,6 +1,9 @@
 <div align="center">
   <a href="https://github.com/interactions-py/interactions.py">
-    <img height="200" src="https://user-images.githubusercontent.com/41456914/226150903-e51711d4-22c4-4ce0-ab2a-d163d315bda0.png" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/interactions-py/.github/assets/12771982/c15fe487-871a-4e87-b705-a52317113c9d">
+      <img alt="interactions.py logo" height="200" src="https://user-images.githubusercontent.com/41456914/226150903-e51711d4-22c4-4ce0-ab2a-d163d315bda0.png">
+    </picture>
   </a>
 </div>
 
